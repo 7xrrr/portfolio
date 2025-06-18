@@ -72,7 +72,26 @@
       ],
       "isOpenSource": true,
       "githubUrl": "https://github.com/7xrrr/discord-quests-bot"
-    }
+    },
+    {
+  "name": "tagDB",
+  "description": "tagDB is a Discord bot that maintains a live database of user tags (like usernames with discriminators). It allows users to search for specific user tags across servers, view live updates when tags change, and access invite links to the servers where users are found. Expired links are automatically deleted, and the bot features a simple, user-friendly UI.",
+  "images": [
+    "https://j.top4top.io/p_34568y3va1.png",
+    "https://k.top4top.io/p_3456i1kmv2.png"
+  ],
+  "videos": [],
+  "date": "March 2025",
+  "technologies": [
+    "Discord.js",
+    "Node.js",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "isOpenSource": false,
+  "githubUrl": null
+  }
+
     
   ]
 }
