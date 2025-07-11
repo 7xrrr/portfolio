@@ -90,8 +90,24 @@
   ],
   "isOpenSource": false,
   "githubUrl": null
+  },
+  {
+  "name": "Tag Servers List",
+  "description": "A bot that keeps track of your servers with a tag and warns you when you lose boosts. It also gives roles to tag users and removes them when needed, plus dynamically creates invite links for the added servers. Efficient and easy to use.",
+  "images": [
+    "https://i.ibb.co/ycXXXGTH/image.png"
+  ],
+  "videos": [],
+  "date": "July 2025",
+  "technologies": [
+    "Discord.js",
+    "Node.js",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "isOpenSource": true,
+  "githubUrl": "https://github.com/7xrrr/tag",
+  "author": "tadfi"
   }
-
-    
   ]
 }
