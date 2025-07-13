@@ -1,135 +1,135 @@
 {
-  "projects": [
-    {
-      "name": "Botify",
-      "description": "Botify is an all-in-one Arabic Discord bot that includes moderation commands, logging features, utilities, and general-purpose commands. While it is primarily built with Arabic users in mind, it also supports multiple languages and can be extended for global use. Built with Discord.js and MongoDB.",
-      "images": [
-        "https://i.ibb.co/LdcFNBJj/image.png",
-        "https://i.ibb.co/21JHXGJB/image.png",
-        "https://i.ibb.co/yBFTvKVN/image.png",
-        "https://i.ibb.co/fVSQH7xz/image.png",
-        "https://i.ibb.co/zzBxfd8/image.png",
-        "https://i.ibb.co/CK1r1xbv/image.png",
-        "https://i.ibb.co/ynCYkRWw/image.png",
-        "https://i.ibb.co/WpkzJK8V/image.png",
-        "https://i.ibb.co/3yf9h2rv/image.png",
-        "https://i.ibb.co/Qjqz11pX/image.png",
-        "https://i.ibb.co/XZLh03hc/image.png",
-        "https://i.ibb.co/wFkjXSLH/image.png",
-        "https://i.ibb.co/Fbxxf7sg/image.png",
-        "https://i.ibb.co/JwjFSk61/image.png"
-      ],
-      "videos": [],
-      "date": "December 2024",
-      "technologies": [
-        "Discord.js",
-        "Node.js",
-        "TypeScript",
-        "MongoDB"
-      ],
-      "isOpenSource": false,
-      "githubUrl": null
-    },    
-    {
-      "name": "Broadcast Bot",
-      "description": "Broadcast Bot is a high-performance Discord bot designed to send messages to all or specific members in a server. It supports proxies for enhanced speed and delivery, making it ideal for large-scale announcements or direct messaging campaigns.",
-      "images": [
-        "https://i.ibb.co/mC3xSjMP/image.png",
-        "https://i.ibb.co/84cFhqjR/image.png",
-        "https://i.ibb.co/FLYBT1Dk/image.png",
-        "https://i.ibb.co/JRXLNp4j/image.png",
-        "https://i.ibb.co/mFF7kF6F/image.png",
-        "https://i.ibb.co/5h6YDZ0L/image.png",
-        "https://i.ibb.co/84zb2J1m/image.png"
-      ],
-      "videos": [],
-      "date": "June 2025",
-      "technologies": [
-        "Discord.js",
-        "Node.js",
-        "TypeScript"
-      ],
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/7xrrr/discord-broadcast-bot"
+    "projects": [
+      {
+        "name": "Botify",
+        "description": "Botify is an all-in-one Arabic Discord bot that includes moderation commands, logging features, utilities, and general-purpose commands. While it is primarily built with Arabic users in mind, it also supports multiple languages and can be extended for global use. Built with Discord.js and MongoDB.",
+        "images": [
+          "https://i.ibb.co/LdcFNBJj/image.png",
+          "https://i.ibb.co/21JHXGJB/image.png",
+          "https://i.ibb.co/yBFTvKVN/image.png",
+          "https://i.ibb.co/fVSQH7xz/image.png",
+          "https://i.ibb.co/zzBxfd8/image.png",
+          "https://i.ibb.co/CK1r1xbv/image.png",
+          "https://i.ibb.co/ynCYkRWw/image.png",
+          "https://i.ibb.co/WpkzJK8V/image.png",
+          "https://i.ibb.co/3yf9h2rv/image.png",
+          "https://i.ibb.co/Qjqz11pX/image.png",
+          "https://i.ibb.co/XZLh03hc/image.png",
+          "https://i.ibb.co/wFkjXSLH/image.png",
+          "https://i.ibb.co/Fbxxf7sg/image.png",
+          "https://i.ibb.co/JwjFSk61/image.png"
+        ],
+        "videos": [],
+        "date": "December 2024",
+        "technologies": [
+          "Discord.js",
+          "Node.js",
+          "TypeScript",
+          "MongoDB"
+        ],
+        "isOpenSource": false,
+        "githubUrl": null
+      },    
+      {
+        "name": "Broadcast Bot",
+        "description": "Broadcast Bot is a high-performance Discord bot designed to send messages to all or specific members in a server. It supports proxies for enhanced speed and delivery, making it ideal for large-scale announcements or direct messaging campaigns.",
+        "images": [
+          "https://i.ibb.co/mC3xSjMP/image.png",
+          "https://i.ibb.co/84cFhqjR/image.png",
+          "https://i.ibb.co/FLYBT1Dk/image.png",
+          "https://i.ibb.co/JRXLNp4j/image.png",
+          "https://i.ibb.co/mFF7kF6F/image.png",
+          "https://i.ibb.co/5h6YDZ0L/image.png",
+          "https://i.ibb.co/84zb2J1m/image.png"
+        ],
+        "videos": [],
+        "date": "June 2025",
+        "technologies": [
+          "Discord.js",
+          "Node.js",
+          "TypeScript"
+        ],
+        "isOpenSource": true,
+        "githubUrl": "https://github.com/7xrrr/discord-broadcast-bot"
+      },
+      {
+        "name": "Discord Quests Bot",
+        "description": "Discord Quests Bot is an open-source automation tool that helps users complete quests by automatically accessing their accounts and accepting quest tasks on their behalf. It supports any type of quest and is built for efficiency and ease of use.",
+        "images": [
+          "https://i.ibb.co/HTn49GGR/image.png",
+          "https://i.ibb.co/chPF7zJb/image.png",
+          "https://i.ibb.co/yFSZtRmk/image.png",
+          "https://i.ibb.co/TqJZpqgT/image.png",
+          "https://i.ibb.co/4g01Rc8y/image.png"
+        ],
+        "videos": [],
+        "date": "June 2025",
+        "technologies": [
+          "Discord.js",
+          "Node.js",
+          "TypeScript",
+          "MongoDB"
+        ],
+        "isOpenSource": true,
+        "githubUrl": "https://github.com/7xrrr/discord-quests-bot"
+      },
+      {
+    "name": "tagDB",
+    "description": "tagDB is a Discord bot that maintains a live database of user tags (like usernames with discriminators). It allows users to search for specific user tags across servers, view live updates when tags change, and access invite links to the servers where users are found. Expired links are automatically deleted, and the bot features a simple, user-friendly UI.",
+    "images": [
+      "https://j.top4top.io/p_34568y3va1.png",
+      "https://k.top4top.io/p_3456i1kmv2.png"
+    ],
+    "videos": [],
+    "date": "March 2025",
+    "technologies": [
+      "Discord.js",
+      "Node.js",
+      "TypeScript",
+      "MongoDB"
+    ],
+    "isOpenSource": false,
+    "githubUrl": null
     },
     {
-      "name": "Discord Quests Bot",
-      "description": "Discord Quests Bot is an open-source automation tool that helps users complete quests by automatically accessing their accounts and accepting quest tasks on their behalf. It supports any type of quest and is built for efficiency and ease of use.",
-      "images": [
-        "https://i.ibb.co/HTn49GGR/image.png",
-        "https://i.ibb.co/chPF7zJb/image.png",
-        "https://i.ibb.co/yFSZtRmk/image.png",
-        "https://i.ibb.co/TqJZpqgT/image.png",
-        "https://i.ibb.co/4g01Rc8y/image.png"
-      ],
-      "videos": [],
-      "date": "June 2025",
-      "technologies": [
-        "Discord.js",
-        "Node.js",
-        "TypeScript",
-        "MongoDB"
-      ],
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/7xrrr/discord-quests-bot"
+    "name": "Tag Servers List",
+    "description": "A bot that keeps track of your servers with a tag and warns you when you lose boosts. It also gives roles to tag users and removes them when needed, plus dynamically creates invite links for the added servers. Efficient and easy to use.",
+    "images": [
+      "https://i.ibb.co/ycXXXGTH/image.png"
+    ],
+    "videos": [],
+    "date": "July 2025",
+    "technologies": [
+      "Discord.js",
+      "Node.js",
+      "TypeScript",
+      "MongoDB"
+    ],
+    "isOpenSource": true,
+    "githubUrl": "https://github.com/7xrrr/tag",
+    "author": "tadfi"
     },
     {
-  "name": "tagDB",
-  "description": "tagDB is a Discord bot that maintains a live database of user tags (like usernames with discriminators). It allows users to search for specific user tags across servers, view live updates when tags change, and access invite links to the servers where users are found. Expired links are automatically deleted, and the bot features a simple, user-friendly UI.",
-  "images": [
-    "https://j.top4top.io/p_34568y3va1.png",
-    "https://k.top4top.io/p_3456i1kmv2.png"
-  ],
-  "videos": [],
-  "date": "March 2025",
-  "technologies": [
-    "Discord.js",
-    "Node.js",
-    "TypeScript",
-    "MongoDB"
-  ],
-  "isOpenSource": false,
-  "githubUrl": null
-  },
-  {
-  "name": "Tag Servers List",
-  "description": "A bot that keeps track of your servers with a tag and warns you when you lose boosts. It also gives roles to tag users and removes them when needed, plus dynamically creates invite links for the added servers. Efficient and easy to use.",
-  "images": [
-    "https://i.ibb.co/ycXXXGTH/image.png"
-  ],
-  "videos": [],
-  "date": "July 2025",
-  "technologies": [
-    "Discord.js",
-    "Node.js",
-    "TypeScript",
-    "MongoDB"
-  ],
-  "isOpenSource": true,
-  "githubUrl": "https://github.com/7xrrr/tag",
-  "author": "tadfi"
-  },
-  {
-  "name": "Ticket Bot",
-  "description": "A simple and easy-to-use Discord ticket bot designed to help manage support tickets in your server. Supports slash commands for configuration and moderation, uses a custom database middleware, and offers MySQL, SQLite, and MongoDB support. Designed to stay simple and clear.",
-  "images": [
-    "https://i.ibb.co/Kz2WRxRt/image.png",
-    "https://i.ibb.co/r21ZqCRs/image.png",
-    "https://i.ibb.co/39QtS5qk/image.png",
-    "https://i.ibb.co/x83pcgbh/image.png"
-  ],
-  "videos": [],
-  "date": "July 2025",
-  "technologies": [
-    "Discord.js",
-    "Node.js",
-    "TypeScript",
-    "MySQL",
-    "SQLite",
-    "MongoDB"
-  ],
-  "isOpenSource": true,
-  "githubUrl": "https://github.com/7xrrr/TicketTask",
+    "name": "Ticket Bot",
+    "description": "A simple and easy-to-use Discord ticket bot designed to help manage support tickets in your server. Supports slash commands for configuration and moderation, uses a custom database middleware, and offers MySQL, SQLite, and MongoDB support. Designed to stay simple and clear.",
+    "images": [
+      "https://i.ibb.co/Kz2WRxRt/image.png",
+      "https://i.ibb.co/r21ZqCRs/image.png",
+      "https://i.ibb.co/39QtS5qk/image.png",
+      "https://i.ibb.co/x83pcgbh/image.png"
+    ],
+    "videos": [],
+    "date": "July 2025",
+    "technologies": [
+      "Discord.js",
+      "Node.js",
+      "TypeScript",
+      "MySQL",
+      "SQLite",
+      "MongoDB"
+    ],
+    "isOpenSource": true,
+    "githubUrl": "https://github.com/7xrrr/TicketTask"
+    }
+    ]
   }
-  ]
-}
