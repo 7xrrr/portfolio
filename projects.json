@@ -108,6 +108,28 @@
   "isOpenSource": true,
   "githubUrl": "https://github.com/7xrrr/tag",
   "author": "tadfi"
+  },
+  {
+  "name": "Ticket Bot",
+  "description": "A simple and easy-to-use Discord ticket bot designed to help manage support tickets in your server. Supports slash commands for configuration and moderation, uses a custom database middleware, and offers MySQL, SQLite, and MongoDB support. Designed to stay simple and clear.",
+  "images": [
+    "https://i.ibb.co/Kz2WRxRt/image.png",
+    "https://i.ibb.co/r21ZqCRs/image.png",
+    "https://i.ibb.co/39QtS5qk/image.png",
+    "https://i.ibb.co/x83pcgbh/image.png"
+  ],
+  "videos": [],
+  "date": "July 2025",
+  "technologies": [
+    "Discord.js",
+    "Node.js",
+    "TypeScript",
+    "MySQL",
+    "SQLite",
+    "MongoDB"
+  ],
+  "isOpenSource": true,
+  "githubUrl": "https://github.com/7xrrr/TicketTask",
   }
   ]
 }
